@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "ATUALIZAR PARA EVITAR ERROS",
   "UrlUpdate": "https://raw.githubusercontent.com/Geovanegf/Elielsonnovo4G/main/UpdateConfig",
   "Sms": "https://raw.githubusercontent.com/Geovanegf/UrlSms/main/SmsConecta4g",
@@ -33,32 +33,32 @@
       "Info": ""
     },
     {
-      "Name": "🇧🇷VIVO NOVO MUNDO",
+      "Name": "🇧🇷VIVO NOVO",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cah2lp1gsb.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brasil2.lanet.host[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "179.191.168.35",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "🎮VIVO DDDS",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cah2lp1gsb.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brasil2.lanet.host[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "200.155.60.243",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "🟣VIVO PLAY 📲",
       "FLAG": "vivo.png",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cah2lp1gsb.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brasil2.lanet.host[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "179.191.168.38",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -73,12 +73,12 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🎶VIVO NAVEGUEM 🎵🎷",
+      "Name": "🎶VIVO NAVEGUEM",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cah2lp1gsb.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bcy9d18yeo.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "179.191.168.36",
+      "ProxyIP": "200.155.60.243",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -95,7 +95,7 @@
     {
       "Name": "🟣VIVO NETFLIX 🎞",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: cah2lp1gsb.map.azionedge.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: brasil2.lanet.host[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "179.191.168.40",
@@ -103,7 +103,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "🔵Tim  1",
+      "Name": "🔵Tim NETFLIX 🎞",
       "FLAG": "tim",
       "Payload": "GET ws://empresas.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "empresas.alura.com.br",
@@ -113,37 +113,37 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵Tim PLUS 2",
+      "Name": "🔵Tim YOUTUBE 🇧🇷",
       "FLAG": "tim",
-      "Payload": "GET ws://api-tim.oston.io HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "api-tim.oston.io",
-      "TlsIP": "172.67.201.130",
+      "Payload": "GET ws://www.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "172.64.147.215",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵Tim 3",
+      "Name": "🔵Tim GAMES 🎮",
       "FLAG": "tim",
-      "Payload": "GET ws://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "static.r4you.co",
-      "TlsIP": "172.67.70.43",
+      "Payload": "GET ws://bam.nr-data.net HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵TIM PRO 4",
+      "Name": "🔵TIM NAVEGUEM 🎶",
       "FLAG": "tim",
-      "Payload": "GET wss://api-tim.oston.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "api-tim.oston.io",
-      "TlsIP": "104.21.58.67",
+      "Payload": "GET wss://bam.nr-data.net/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
-      "Name": "🔵TIM 5",
+      "Name": "🔵TIM NO TOPO🌐",
       "FLAG": "tim",
       "Payload": "GET wss://blog.alura.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "blog.alura.com.br",
@@ -185,9 +185,9 @@
     {
       "Name": "🔴Claro [ALGUNS DDDs 03]",
       "FLAG": "claro",
-      "Payload": "GET wss://www.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "www.icanhazip.com",
-      "TlsIP": "www.icanhazip.com",
+      "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "communitystaging.kaltura.com",
+      "TlsIP": "162.159.138.78",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -195,9 +195,9 @@
     {
       "Name": "🔴Claro [SSL 04]",
       "FLAG": "claro",
-      "Payload": "GET ws://www.icanhazip.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "www.icanhazip.com",
-      "TlsIP": "104.18.115.97",
+      "Payload": "GET ws://communitystaging.kaltura.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "communitystaging.kaltura.com",
+      "TlsIP": "162.159.128.79",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
